@@ -1,8 +1,8 @@
 // ===================================================================================
 //                       EDIT THESE TEXT AND OTHER STUFF ✅  
 // ===================================================================================
-const image_1 = 'https://i.imgur.com/Rjnxy4M.jpeg' // Image 1
-const image_2 = 'https://i.imgur.com/poAzsH7.jpeg' // Image 2
+const image_1 = 'https://i.imgur.com/6MidX9s.jpg' // Image 1
+const image_2 = 'https://i.imgur.com/6MidX9s.jpg' // Image 2
 var duration = [200001355,3999600,359996400] // Fake duration. Make it false for actual duration
 var text_1 = '𝑅𝒊𝒛𝒘𝒂𝒏 𝟭𝟬𝟲  💔 🙂'
 var text_2 = '𝑅𝒊𝒛𝒘𝒂𝒏 𝟭𝟬𝟲  💔 🙂'
